@@ -8,9 +8,3 @@ A computer vision system to detect traffic violations like red light jumping and
 - Red light violation detection
 - Wrong lane driving detection
 - Web dashboard using Flask
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/traffic-violation-detection.git
-cd traffic-violation-detection
